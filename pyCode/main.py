@@ -1,9 +1,9 @@
+import math 
 print("mohamed Changes")
 
-names = ["Ahmed", "Aziz", "Ali"]
+def get_square_root(a):
+    return math.sqrt(a)
 
-for i in names:
-    print(i)
 
-print("I have added our names")
-print("Nice to meet you")
+
+print(get_square_root(526))
