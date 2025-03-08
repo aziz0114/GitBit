@@ -7,3 +7,8 @@ def get_square_root(a):
 
 
 print(get_square_root(526))
+
+names = ["Ahmed", "Aziz", "Ali"]
+
+for i in names:
+    print(i)
