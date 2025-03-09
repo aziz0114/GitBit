@@ -1,0 +1,11 @@
+#include <stdio.h>
+#include <math>
+
+int main(void)
+{
+         int = 80;
+	 int = 100;
+	 print("square root of(%d+d% = %d",x,y,sqrt(x+y));
+	 print("Learning branching stratigy\n");
+returen 0;
+}
